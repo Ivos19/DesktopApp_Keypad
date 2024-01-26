@@ -1,0 +1,146 @@
+﻿{
+	"Configuraciones": {
+		"Version": 2,
+		"Puerto": 9090
+	},
+	"Macros": {
+		"GrupoUno": [
+			{
+				"UdpKey":  "G1A",
+				"Macro": "V,1,A"
+			},
+			{
+				"UdpKey":  "G1B",
+				"Macro": "V,1,B"
+			},
+			{
+				"UdpKey":  "G1C",
+				"Macro": "V,1,C"
+			},
+			{
+				"UdpKey":  "G1D",
+				"Macro": "V,1,D"
+			},
+			{
+				"UdpKey":  "G1E",
+				"Macro": "V,1,E"
+			},
+			{
+				"UdpKey":  "G1F",
+				"Macro": "V,1,F"
+			},
+			{
+				"UdpKey":  "G1G",
+				"Macro": "V,1,G"
+			},
+			{
+				"UdpKey":  "G1H",
+				"Macro": "V,1,H"
+			},
+			{
+				"UdpKey":  "G1I",
+				"Macro": "V,1,I"
+			},
+			{
+				"UdpKey":  "G1J",
+				"Macro": "V,1,J"
+			},
+			{
+				"UdpKey":  "G1K",
+				"Macro": "V,1,K"
+			}
+		],
+		"GrupoDos": [
+			{
+				"UdpKey":  "G2A",
+				"Macro": "V,2,A"
+			},
+			{
+				"UdpKey":  "G2B",
+				"Macro": "V,2,B"
+			},
+			{
+				"UdpKey":  "G2C",
+				"Macro": "V,2,C"
+			},
+			{
+				"UdpKey":  "G2D",
+				"Macro": "V,2,D"
+			},
+			{
+				"UdpKey":  "G2E",
+				"Macro": "V,2,E"
+			},
+			{
+				"UdpKey":  "G2F",
+				"Macro": "V,2,F"
+			},
+			{
+				"UdpKey":  "G2G",
+				"Macro": "V,2,G"
+			},
+			{
+				"UdpKey":  "G2H",
+				"Macro": "V,2,H"
+			},
+			{
+				"UdpKey":  "G2I",
+				"Macro": "V,2,I"
+			},
+			{
+				"UdpKey":  "G2J",
+				"Macro": "V,2,J"
+			},
+			{
+				"UdpKey":  "G2K",
+				"Macro": "V,2,K"
+			}
+		],
+		"GrupoTres": [
+			{
+				"UdpKey":  "G3A",
+				"Macro": "V,3,A"
+			},
+			{
+				"UdpKey":  "G3B",
+				"Macro": "V,3,B"
+			},
+			{
+				"UdpKey":  "G3C",
+				"Macro": "V,3,C"
+			},
+			{
+				"UdpKey":  "G3D",
+				"Macro": "V,3,D"
+			},
+			{
+				"UdpKey":  "G3E",
+				"Macro": "V,3,E"
+			},
+			{
+				"UdpKey":  "G3F",
+				"Macro": "V,3,F"
+			},
+			{
+				"UdpKey":  "G3G",
+				"Macro": "V,3,G"
+			},
+			{
+				"UdpKey":  "G3H",
+				"Macro": "V,3,H"
+			},
+			{
+				"UdpKey":  "G3I",
+				"Macro": "V,3,I"
+			},
+			{
+				"UdpKey":  "G3J",
+				"Macro": "VD"
+			},
+			{
+				"UdpKey":  "G3K",
+				"Macro": "VU"
+			}
+		]
+	}
+}
